@@ -18,3 +18,4 @@ labels: kind/bug
 - OS (e.g., MacOS 10.13.6):
 - Python version (`python --version`)
 - Python client version (`pip list | grep kubernetes`)
+- Python version (`python --version-fix`)
